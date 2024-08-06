@@ -9,18 +9,8 @@ This Jupyter notebook predicts insurance customer lifetime value using machine l
 A machine learning model is constructed in this notebook to predict the lifetime value of insurance customers. The project offers insights into the problem, data, modeling process, and strategic recommendations.
 
 ## Contents
-1. Business Problem Understanding:
-   Defines the project's purpose and goals, highlighting the critical role of CLV prediction in optimizing marketing and customer retention.
-2. Data Understanding:
-   Describes dataset composition, focusing on customer insurance details and CLV metrics.
-3. Data Analysis: 
-   Conduct in-depth data analysis to reveal underlying trends, patterns, and correlations.
-4. Data Preparation: 
-   Data preparation steps included cleaning and transforming the dataset.
-5. Modeling: 
-   Employing machine learning for CLV prediction and customer behavior analysis.
-Conclusion and Recommendation: Summarizes findings and provides strategic recommendations based on the analysis.
-Deployment: Discusses approaches for deploying the model in a real-world setting.
+![Capstone 3 drawio (2)](https://github.com/user-attachments/assets/90fc6713-6d09-4513-999c-884e5399c9d5)
+-----
 
 ![image](https://github.com/user-attachments/assets/da496574-fc76-4a68-9294-d8fc33633f32)
 ![image](https://github.com/user-attachments/assets/19a99c7e-6aae-40a9-aa63-ed5e6e44c65c)
