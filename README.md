@@ -1,4 +1,4 @@
-# Capstone-Project-Modul-3
+# Capstone-Project-Modul-3 (Predictive Analytics for Customer Loyalty: Constructing a Customer Lifetime Value - Based Model)
 This Jupyter notebook predicts insurance customer lifetime value using machine learning.
 -----
 - **Dataset** link: https://docs.google.com/spreadsheets/d/1uPR6NJA2QiXU7BgdLNsDE7yaxu4U2NHF436jqBxs4VI/edit?usp=sharing
