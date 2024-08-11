@@ -8,12 +8,12 @@ This Jupyter notebook predicts insurance customer lifetime value using machine l
 -----
 ## Overview
 A machine learning model is constructed in this notebook to predict the lifetime value of insurance customers. The project offers insights into the problem, data, modeling process, and strategic recommendations.
-![image](https://github.com/user-attachments/assets/ede96482-d342-4e64-a36c-ed22ce37394b)
+
 
 
 
 ## Contents
-![Capstone 3 drawio (2)](https://github.com/user-attachments/assets/90fc6713-6d09-4513-999c-884e5399c9d5)
+![image](https://github.com/user-attachments/assets/ede96482-d342-4e64-a36c-ed22ce37394b)
 -----
 ![image](https://github.com/user-attachments/assets/0ea03237-43bf-4e08-ada6-2fc3586fff97)
 ![image](https://github.com/user-attachments/assets/95623f32-4f6f-45c0-b5e6-d695c7a36f3d)
