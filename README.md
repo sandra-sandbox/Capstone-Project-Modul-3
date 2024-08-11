@@ -13,9 +13,10 @@ A machine learning model is constructed in this notebook to predict the lifetime
 ## Contents
 ![Capstone 3 drawio (2)](https://github.com/user-attachments/assets/90fc6713-6d09-4513-999c-884e5399c9d5)
 -----
+![image](https://github.com/user-attachments/assets/60c41721-e135-4390-8f42-166e9cc85c7a)
+![image](https://github.com/user-attachments/assets/9e649f9d-905d-4b49-aa4a-5dc1fd1f2317)
 
-![image](https://github.com/user-attachments/assets/da496574-fc76-4a68-9294-d8fc33633f32)
-![image](https://github.com/user-attachments/assets/19a99c7e-6aae-40a9-aa63-ed5e6e44c65c)
+
 
 
 
